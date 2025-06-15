@@ -5,4 +5,4 @@ description: >-
   Homepage of Dr. Feiyan Cai, Acoustics Researcher
 
 markdown: kramdown
-theme: minimal
+# theme: minimal

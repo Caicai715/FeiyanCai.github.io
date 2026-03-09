@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Feiyan Cai"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Feiyan Cai is a researcher at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, specializing in biomedical ultrasound.
+
+Her research focuses on acoustic tweezers, acoustofluidics, wave–matter interactions, field-modulated transducer design, and ultrasound-based biomedical applications such as drug delivery.
+
+She has authored more than 80 SCI-indexed papers and has published in leading journals including *Nature Reviews Methods Primers*, *Nature Communications*, *Physical Review Applied*, *Lab on a Chip*, and *The Journal of the Acoustical Society of America*.
+
+## Research Interests
+- Field-Modulated Transducer Design
+- Acoustic Tweezers
+- Acoustofluidics
+- Ultrasound-Mediated Drug Delivery and neuromodulation
+
+For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMyNU0AAAAAJ&view_op=list_works&sortby=pubdate).
 
 A data-driven personal website
 ======

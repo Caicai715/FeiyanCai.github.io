@@ -1,10 +1,15 @@
 # Feiyan Cai
 
-Welcome to my academic homepage. I am a researcher in physical acoustics, ultrasonic transducers, and biomedical ultrasonics.
+Feiyan Cai is a researcher at the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, specializing in biomedical ultrasound.
 
-Please find my research interests, selected publications, projects, and more here.
+Her research focuses on acoustic tweezers, acoustofluidics, wave–matter interactions, field-modulated transducer design, and ultrasound-based biomedical applications such as drug delivery.
 
-For full list of publications, visit my [Google Scholar](https://scholar.google.com/citations?user=MMyNU0AAAAAJ&hl=en).
+She has authored more than 80 SCI-indexed papers and has published in leading journals including *Nature Reviews Methods Primers*, *Nature Communications*, *Physical Review Applied*, *Lab on a Chip*, and *The Journal of the Acoustical Society of America*.
 
-sql
-Trigger Github Pages build
+## Research Interests
+- Field-Modulated Transducer Design
+- Acoustic Tweezers
+- Acoustofluidics
+- Ultrasound-Mediated Drug Delivery and Neuromodulation
+
+For a full list of publications, visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMyNU0AAAAAJ&view_op=list_works&sortby=pubdate).
